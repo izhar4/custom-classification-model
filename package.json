@@ -1,0 +1,16 @@
+{
+  "name": "custom-classifier",
+  "version": "1.0.0",
+  "description": "",
+  "main": "model.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tensorflow-models/universal-sentence-encoder": "^1.3.2",
+    "@tensorflow/tfjs-node": "^3.6.1"
+  }
+}
